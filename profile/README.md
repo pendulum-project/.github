@@ -1,7 +1,9 @@
 The Pendulum project is building modern, full-featured implementations of the Network Time Protocol and the Precision Time Protocol. Pendulum focuses on security and robustness and provides memory safety through Rust. 
 
-<p align="center" style="padding: 2rem 0rem;">
+<p align="center" >
+<br />
 <img width="500px" alt="Pendulum - NTP and PTP in Rust" src="https://raw.githubusercontent.com/pendulum-project/.github/main/profile/pendulum-illustration-v3.jpg" />
+<br /><br />
 </p>
 
 Statime (PTP) and ntpd-rs (NTP) are the two projects that constitute Pendulum.
