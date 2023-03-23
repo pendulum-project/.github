@@ -10,13 +10,13 @@ Statime (PTP) and ntpd-rs (NTP) are the two projects that constitute Pendulum.
 
 ### Objectives
 
-NTP and PTP are vital building blocks of the Internet and other critical infrastructure, running on millions of devices and servers. Our mission is to create memory-safe timing protocol implementations that 1) provide reliable time synchronization and 2) are easily extensible to accommodate future timing standards improvements.
+NTP and PTP are vital building blocks of the Internet and other critical infrastructure, running on millions of devices and servers. Our mission is to create memory-safe timing protocol implementations that 1) provide reliable time synchronization and 2) are easily extensible to accomodate future improvements of timing standards.
 
 Working with the timing community and sharing our insights and knowledge is an integral part of that mission.
 
 ### Roadmap
 
-- Q1 2023: NTS support in ntpd-rs
+- Q1 2023: NTS (Network Time Security) support in ntpd-rs
 - Q2 2023: PTP default profile + NTP/PTP clock device
 - Q3 2023: Adoption work (ntpd-rs) and new features 
 
