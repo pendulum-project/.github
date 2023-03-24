@@ -1,4 +1,4 @@
-The Pendulum project is building modern, full-featured implementations of the Network Time Protocol and the Precision Time Protocol. Pendulum focuses on security and robustness and provides memory safety through Rust. 
+The Pendulum project is building modern, full-featured implementations of the Network Time Protocol and the Precision Time Protocol. Pendulum focuses on security and robustness, and uses the Rust programming language to guarantee memory safety. 
 
 <p align="center" >
 <br />
