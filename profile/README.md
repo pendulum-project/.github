@@ -16,9 +16,9 @@ Working with the timing community and sharing our insights and knowledge is an i
 
 ### Roadmap
 
-- Q1 2023: NTS (Network Time Security) support in ntpd-rs
-- Q2 2023: PTP default profile + NTP/PTP clock device
-- Q3 2023: Adoption work (ntpd-rs) and new features 
+- Q2 2023: PTP master in Statime + Adoption work for ntpd-rs
+- Q3 2023: NTP/PTP clock device + Stable release ntpd-rs
+- Q4 2023: PTP for Linux
 
 Have a look at the [Statime](https://github.com/pendulum-project/statime) and [ntpd-rs](https://github.com/memorysafety/ntpd-rs) projects for more details about their roadmaps.
 
