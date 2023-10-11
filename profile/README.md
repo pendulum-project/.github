@@ -28,7 +28,7 @@ The Pendulum project is run by [Tweede golf](https://tweedegolf.nl/en). We conti
 
 ### Funders
 
-We thank [Prossimo](https://www.memorysafety.org/) and the [NLnet Foundation](https://nlnet.nl/) for their substantial support for the initial development. 
+We thank [Prossimo] and the [NLnet Foundation] for their substantial support for the initial development. 
 
 In July of 2023, the [Sovereign Tech Fund] invested in Pendulum, securing development and maintenance for 2023 and maintenance and adoption work in 2024.
 
@@ -39,7 +39,9 @@ In July of 2023, the [Sovereign Tech Fund] invested in Pendulum, securing develo
 <img style="margin: 1rem 5% 1rem 5%;" src="https://tweedegolf.nl/images/logo-stf-blank.png" alt="Logo Sovereign Tech Fund"  width="200px" />
 
 
-
+[Sovereign Tech Fund]: https://sovereigntechfund.de/en/
+[Prossimo]: https://www.memorysafety.org/
+[NLnet Foundation]: https://nlnet.nl/
 
 
 
