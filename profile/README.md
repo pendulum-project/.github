@@ -24,11 +24,11 @@ Have a look at the [Statime](https://github.com/pendulum-project/statime) and [n
 
 ### Support us
 
-The Pendulum project is run by [Tweede golf](https://tweedegolf.nl/en). We continuously seek the involvement of interested parties and funding for future work. Reach out to pendulum@tweedegolf.com if you're interested.
+The Pendulum project is governed by the [Trifecta Tech Foundation](https://trifectatech.org/). We continuously seek the involvement of interested parties and funding for future work. Reach out to pendulum@trifectatech.org if you're interested.
 
 ### Funders
 
-We thank [Prossimo] and the [NLnet Foundation] for their substantial support for the initial development. 
+We thank our partner [Tweede golf] and [Prossimo] and the [NLnet Foundation] for their substantial support for the initial development. 
 
 In July of 2023, the [Sovereign Tech Fund] invested in Pendulum, securing development and maintenance for 2023 and maintenance and adoption work in 2024.
 
@@ -38,7 +38,7 @@ In July of 2023, the [Sovereign Tech Fund] invested in Pendulum, securing develo
 
 <img style="margin: 1rem 5% 1rem 5%;" src="https://tweedegolf.nl/images/logo-stf-blank.png" alt="Logo Sovereign Tech Fund"  width="200px" />
 
-
+[Tweede golf]: https://tweedegolf.nl/en
 [Sovereign Tech Fund]: https://sovereigntechfund.de/en/
 [Prossimo]: https://www.memorysafety.org/
 [NLnet Foundation]: https://nlnet.nl/
