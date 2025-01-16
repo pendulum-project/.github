@@ -16,11 +16,9 @@ Working with the timing community and sharing our insights and knowledge is an i
 
 ### Roadmap
 
-- Q2-Q4 2024: Adoption work & maintenance for ntpd-rs & Statime
-- Q3 2024: Stable release Statime (pending funding)
-- Q4 2024: NTS Pool (pending funding)
-
-Have a look at the [Statime](https://github.com/pendulum-project/statime) and [ntpd-rs](https://github.com/memorysafety/ntpd-rs) projects for more details about their roadmaps.
+- Q1 2025: Start work on NTS Pool (pending funding)
+- Q2 2025: Release of NTPv5 (pending funding)
+- Q3 2025: Clock synchronization library for PTP and NTP (pending funding)
 
 ### Support us
 
