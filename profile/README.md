@@ -30,11 +30,11 @@ We thank our partner [Tweede golf] and [Prossimo] and the [NLnet Foundation] for
 
 In July of 2023, the [Sovereign Tech Fund] invested in Pendulum, securing development and maintenance for 2023 and maintenance and adoption work in 2024.
 
-<img style="margin: 1rem 5% 1rem 5%;"  alt="Prossimo" src="https://www.memorysafety.org/images/Prossimo%20Brand%20Assets/Prossimo%20Horizontal%20Full%20Color.svg" width="200px"/>
+<img style="margin: 1rem 5% 1rem 5%;"  alt="Prossimo" src="https://www.memorysafety.org/images/Prossimo%20Brand%20Assets/Prossimo%20Horizontal%20Full%20Color.svg" width="300px"/>
 
-<img style="margin: 1rem 5% 1rem 5%;" src="https://nlnet.nl/logo/banner.svg" alt="Logo NLnet"  width="200px" />
+<img style="margin: 1rem 5% 1rem 5%;" src="https://nlnet.nl/logo/banner.svg" alt="Logo NLnet"  width="300px" />
 
-<img style="margin: 1rem 5% 1rem 5%;" src="https://tweedegolf.nl/images/logo-stf-blank.png" alt="Logo Sovereign Tech Fund"  width="200px" />
+<img style="margin: 1rem 5% 1rem 5%;" src="https://raw.githubusercontent.com/pendulum-project/.github/main/profile/sta-color.png" alt="Logo Sovereign Tech Fund"  width="300px" />
 
 [Tweede golf]: https://tweedegolf.nl/en
 [Sovereign Tech Fund]: https://sovereigntechfund.de/en/
