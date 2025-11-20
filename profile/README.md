@@ -16,10 +16,7 @@ Working with the timing community and sharing our insights and knowledge is an i
 
 ### Roadmap
 
-- Q2 2025: Start work on NTS Pool 
-- Q2 2025: Release of NTPv5
-- Q3 2025: Clock synchronization library for PTP and NTP
-- Q4 2026: End work on NTS Pool
+See the [Time Synchronization initiative page](https://trifectatech.org/initiatives/time-synchronization/) on trifectatech.org.
 
 ### Support us
 
